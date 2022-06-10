@@ -1,0 +1,9 @@
+CS472 - Homework2
+William Puppo
+
+FtpClientv2.py is the main program and requires helper files Client.py, CommandHandler.py and ResponseCodeHandler.py
+This program will create a log file in the local directory. 
+
+Usage:
+    python3 FtpClientv2.py <server ip> <logfile> <port>
+    Where the port command is optional
